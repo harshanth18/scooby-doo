@@ -1,0 +1,2 @@
+# scooby-doo
+philosophy coding 
